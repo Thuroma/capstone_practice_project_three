@@ -1,0 +1,23 @@
+Use cases:
+User searches for a city by name
+User searches area by zip code
+User bookmarks search results
+
+User makes request from program
+Program makes requests from apis
+Api data is returned
+Program displays the returned data
+User bookmarks the search results
+Program saves the data in a SQLite database
+User views bookmark list
+Program retrieves data from database
+Program displays the returned data
+User selects to update frequently updating data
+Program makes requests from api
+Api data is returned
+Displayed database data is updated with returned data
+
+When a county is selected:
+User enters/selects county
+County name is used as a parameter for the database to return the county code
+Use the returned county code to make a request for the api data for the county
