@@ -114,5 +114,5 @@ print(f'Out of the {total_housing} houses: {total_occupied_homes} are occupied a
 print(f'The racial breakdown of the city is:\n   {black_population} Black or African American\n   {hispanic_population} Hispanic or Latino\n   {asian_population} Asian\n   {white_population} White.')
 
 """
-This api section is for the change is population in an area between 2020 and 2021
+This section is for the change is population in an area between 2020 and 2021
 """
